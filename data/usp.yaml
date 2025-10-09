@@ -1,0 +1,22 @@
+train: <dir of train labels in yolo txt format>
+val: <dir of val labels in yolo txt format>
+test: <dir of test labels in yolo txt format>
+image_dir: <image dir containing all image>
+
+# number of classes
+nc: 4
+
+# class names
+names: ['Caries2', 'Caries3', 'Caries4', 'Caries5']
+
+# augmentations settings
+hsv_h: 0.0  # image HSV-Hue augmentation (fraction)
+hsv_s: 0.0  # image HSV-Saturation augmentation (fraction)
+hsv_v: 0.4  # image HSV-Value augmentation (fraction)
+rotate: 20  # image rotation (+/- deg)
+translate: 0.2  # image translation (+/- fraction)
+scale: 0.2  # image scale (+/- gain)
+shear: 0  # image shear (+/- deg)
+perspective: 0.0  # image perspective (+/- fraction), range 0-0.001
+flipud: 0.0  # image flip up-down (probability)
+fliplr: 0.5  # image flip left-right (probability)
