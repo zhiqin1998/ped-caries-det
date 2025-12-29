@@ -1,4 +1,5 @@
 # Paediatric Caries Detection
+Published the [Caries Research Journal 2025](https://doi.org/10.1159/000550079).
 
 ## Setup Environment
 Disclaimer: The codes have only been tested on Ubuntu 18.04, Python 3.8.18 and Pytorch 1.7.1 CUDA 11.0, but they should work on environments with similar major versions.
