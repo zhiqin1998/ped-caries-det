@@ -40,3 +40,16 @@ Outputs are stored in `<project>/<name>`.
 All experiments are logged to Tensorboard and WandB automatically. They can be disabled in the training codes.
 
 Please refer to [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) (YOLOX-L), [CenterNet2](https://github.com/xingyizhou/CenterNet2) (CenterNet2_DLA-BiFPN-P3) and [DINO](https://github.com/IDEA-Research/DINO) (DINO-4scale) for other object detector models.
+
+## Citation
+If you find this work useful for your research, please cite our work as
+```bibtex
+@article{Tan2025CR,
+  abbr={CR},
+  title={Caries detection in primary molars with bitewing radiographs through deep learning based-object detectors},
+  author={Tan, Zhi Qin and Pinho, Ilana Felix and Banks, Ryan and Chen, Xiongjie and Pontes, Laura Regina Antunes and Braga, Mariana Minatel and Mendes, Fausto Medeiros and Li, Yunpeng},
+  journal={Caries Research},
+  doi={https://doi.org/10.1159/000550079},
+  year={2025}
+}
+```
