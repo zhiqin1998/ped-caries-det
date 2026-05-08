@@ -45,7 +45,6 @@ Please refer to [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) (YOLOX-L)
 If you find this work useful for your research, please cite our work as
 ```bibtex
 @article{Tan2025CR,
-  abbr={CR},
   title={Caries detection in primary molars with bitewing radiographs through deep learning based-object detectors},
   author={Tan, Zhi Qin and Pinho, Ilana Felix and Banks, Ryan and Chen, Xiongjie and Pontes, Laura Regina Antunes and Braga, Mariana Minatel and Mendes, Fausto Medeiros and Li, Yunpeng},
   journal={Caries Research},
